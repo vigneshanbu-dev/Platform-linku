@@ -427,7 +427,7 @@ function App() {
       <main className="shell home-shell">
         <section className="hero-banner reveal">
           <div className="hero-banner__copy">
-            <span className="eyebrow">Creator storefront</span>
+            <span className="eyebrow">Linku.ai</span>
             <h1>One homepage for your viewers, with a separate buying page for every product.</h1>
             <p>
               Share your YouTube reviews, keep multiple affiliate links for each product, and let visitors choose Amazon, Flipkart, Myntra, or any other store from one clean page.
